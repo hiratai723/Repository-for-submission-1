@@ -38,10 +38,10 @@ main {
 }
 
 .step-img3 {
-height:150px;
-background-image: url(img/flow03.png);
-background-position: bottom;
-background-size: cover;
+  height: 150px;
+  background-image: url(img/flow03.png);
+  background-position: bottom;
+  background-size: cover;
 }
 
 .step-num {
